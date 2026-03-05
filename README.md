@@ -10,6 +10,6 @@ AI/ML engineer building production agentic systems, RAG pipelines, and LLM evalu
 - Data engineering — PySpark, Databricks, Delta Lake, ETL at scale
 - Full-stack — Next.js, FastAPI, PostgreSQL, Docker, SSE streaming
 
-Background in computational biology (MS Pitt, BS RPI) — I've trained protein language models, built bioinformatics pipelines, and run molecular dynamics simulations, but my day-to-day is shipping AI systems.
+Background in computational biology (MS Pitt, BS RPI) — I've trained protein language models, built bioinformatics pipelines, and run molecular dynamics simulations, but my day-to-day is shipping AI systems that solve challenging problems reguardless of domain.
 
 [antolick.ai](https://antolick.ai)
