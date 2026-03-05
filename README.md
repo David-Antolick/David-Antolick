@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm David
 
-<!--
-**David-Antolick/David-Antolick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML engineer building production agentic systems, RAG pipelines, and LLM evaluation infrastructure.
 
-Here are some ideas to get you started:
+**Currently:** AI and Platform Engineer at Johnson & Johnson, deploying multi-agent chatbots and data pipelines in regulated pharma manufacturing. Independently built and shipped [ClimbSpeed](https://climbspeed.com) — a full-stack RAG platform with a custom ReAct agent, hybrid retrieval, and eval-driven iteration (4.86/5.0 correctness, 230 benchmarked questions).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on:**
+- Agentic AI systems — custom ReAct frameworks, tool calling, multi-agent orchestration
+- RAG pipelines — hybrid retrieval (semantic + BM25 + RRF), eval-driven optimization
+- Data engineering — PySpark, Databricks, Delta Lake, ETL at scale
+- Full-stack — Next.js, FastAPI, PostgreSQL, Docker, SSE streaming
+
+Background in computational biology (MS Pitt, BS RPI) — I've trained protein language models, built bioinformatics pipelines, and run molecular dynamics simulations, but my day-to-day is shipping AI systems.
+
+[antolick.ai](https://antolick.ai)
